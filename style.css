@@ -4,9 +4,19 @@
     
 }
 
+.menu-upper-box{
+    background-color: rgb(82, 12, 12);
+    width: 500px;
+    margin: 0 auto;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+}
+
+
 h1{
     font-size: 45px;
     text-align: center;
+    color: beige;
 }
 ul{
     font-size: 35px;
@@ -33,5 +43,5 @@ ul{
 
 img{
     border-radius: 55px;
-    
+    height: 200px; width: 280px;
 }
